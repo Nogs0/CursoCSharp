@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "12wqsysdlNO0AxWdHU1e/X+aNK37JNLJXTmJd2fBsm5ef4z93faQ7rlPDNNlZR4f7NEhrJ3+hVpvwMI0nOPaEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\Exemplo struct\\Exemplo struct\\Exemplo struct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

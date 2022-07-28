@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dSSs7zpI/jmml+DiCJg7AwGQ+bbIdokZBkk0CkUFlMquSoVlDupK0/l05yTM/B+B6+LvGhb2GAsqNfAMQ8g4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\CalculadoraOut\\CalculadoraOut\\CalculadoraOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

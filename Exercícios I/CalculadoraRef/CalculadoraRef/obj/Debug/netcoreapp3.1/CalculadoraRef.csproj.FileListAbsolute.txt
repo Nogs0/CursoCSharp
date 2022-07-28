@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.exe
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.deps.json
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.runtimeconfig.json
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.dll
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\bin\Debug\netcoreapp3.1\CalculadoraRef.pdb
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.AssemblyInfo.cs
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.dll
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.pdb
+C:\Users\joaog\source\repos\CalculadoraRef\CalculadoraRef\obj\Debug\netcoreapp3.1\CalculadoraRef.genruntimeconfig.cache

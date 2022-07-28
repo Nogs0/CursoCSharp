@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Spmtjglb82LQ1XtNvMtSazk5D55YteYypCQWmyuM/j3kuRebQ7rXqLKV36gb3/KLDc/ZwmMokF2yEiiYdRCa5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\ExemploVetor2\\ExemploVetor2\\ExemploVetor2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

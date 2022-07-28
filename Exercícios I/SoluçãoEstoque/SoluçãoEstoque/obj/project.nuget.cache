@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWo2S1zV86xW4JOF9YxTIhuE2oU9MGHNzj2sotqnA9WwL2qVaMe/H4cQfUMIma1TjTlAqdzliXe9sZE8N6KW4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Desktop\\Códigos\\Capítulo 4\\SoluçãoEstoque\\SoluçãoEstoque\\SoluçãoEstoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

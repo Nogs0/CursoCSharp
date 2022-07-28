@@ -1,0 +1,13 @@
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.exe
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.deps.json
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.runtimeconfig.json
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.dll
+C:\Users\joaog\source\repos\ex019\ex019\bin\Debug\netcoreapp3.1\ex019.pdb
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.AssemblyInfo.cs
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.dll
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.pdb
+C:\Users\joaog\source\repos\ex019\ex019\obj\Debug\netcoreapp3.1\ex019.genruntimeconfig.cache

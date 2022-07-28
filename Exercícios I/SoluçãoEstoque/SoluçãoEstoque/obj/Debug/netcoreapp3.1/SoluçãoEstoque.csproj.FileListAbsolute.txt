@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.exe
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.deps.json
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.runtimeconfig.json
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.dll
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\bin\Debug\netcoreapp3.1\SoluçãoEstoque.pdb
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.AssemblyInfo.cs
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.dll
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.pdb
+C:\Users\joaog\source\repos\SoluçãoEstoque\SoluçãoEstoque\obj\Debug\netcoreapp3.1\SoluçãoEstoque.genruntimeconfig.cache

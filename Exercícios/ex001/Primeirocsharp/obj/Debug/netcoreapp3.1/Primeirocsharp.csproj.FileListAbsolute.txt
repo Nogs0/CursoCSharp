@@ -1,0 +1,14 @@
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.exe
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.deps.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.runtimeconfig.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\bin\Debug\netcoreapp3.1\Primeirocsharp.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.AssemblyInfo.cs
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Primeirocsharp\Primeirocsharp\obj\Debug\netcoreapp3.1\Primeirocsharp.genruntimeconfig.cache

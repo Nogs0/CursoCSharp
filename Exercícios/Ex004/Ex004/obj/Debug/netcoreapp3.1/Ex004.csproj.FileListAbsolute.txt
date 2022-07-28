@@ -1,0 +1,13 @@
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.exe
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.deps.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.runtimeconfig.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.AssemblyInfo.cs
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.genruntimeconfig.cache

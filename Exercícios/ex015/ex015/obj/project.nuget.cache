@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eS+qj7+oJhR1jLarm7XjdsmcglJm8hrVQdKoz7S71t60rhRj+OTzqjF76LbjWugI6PfHbvC+iETr2e1M3HUCRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Documents\\Visual Studio 2019\\Códigos\\Capítulo 3\\ex015\\ex015\\ex015.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

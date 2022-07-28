@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jUc/VE6DmFCBicZcy8vmk/Q69ACuM24dV2hOh9LbjEPl6HTbPmCMVdLa7Tt8N2zGAeU5C4ojx+Wq5eMdgecCuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\Pensionato\\Pensionato\\Pensionato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

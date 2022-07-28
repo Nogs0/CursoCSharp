@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb0yB06c2PJHW9OD0f2YwtUh14D+V8A1CgVP7B8p3R3AcC3ibpgVBTaQWADzcqvkesCesUaDuIolZTVIZAC1Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Desktop\\Códigos\\Capítulo 4\\ExercícioClasse3\\ExercícioClasse3\\ExercícioClasse3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

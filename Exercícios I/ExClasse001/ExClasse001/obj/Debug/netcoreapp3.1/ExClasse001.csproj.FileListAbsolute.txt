@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.exe
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.deps.json
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.runtimeconfig.json
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.dll
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\bin\Debug\netcoreapp3.1\ExClasse001.pdb
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.AssemblyInfo.cs
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.dll
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.pdb
+C:\Users\joaog\source\repos\ExClasse001\ExClasse001\obj\Debug\netcoreapp3.1\ExClasse001.genruntimeconfig.cache

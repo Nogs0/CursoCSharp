@@ -1,0 +1,13 @@
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.exe
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.deps.json
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.runtimeconfig.json
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.dll
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\bin\Debug\netcoreapp3.1\Correçãoex.pdb
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.AssemblyInfo.cs
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.dll
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.pdb
+C:\Users\joaog\source\repos\Correçãoex\Correçãoex\obj\Debug\netcoreapp3.1\Correçãoex.genruntimeconfig.cache

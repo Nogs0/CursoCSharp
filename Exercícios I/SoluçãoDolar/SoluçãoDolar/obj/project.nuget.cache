@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5b4E6rbi4HjjZn2FU8gTMu+k4LrfAp2vUXfVMsHN/fM/6/fqsFzGXz3Xr4u7/iP2Z6elklqqd7egDOLjsCHJwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\SoluçãoDolar\\SoluçãoDolar\\SoluçãoDolar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

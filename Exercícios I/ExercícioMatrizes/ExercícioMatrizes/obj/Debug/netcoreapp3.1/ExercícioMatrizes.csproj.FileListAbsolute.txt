@@ -1,0 +1,14 @@
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.exe
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.deps.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.runtimeconfig.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.runtimeconfig.dev.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\bin\Debug\netcoreapp3.1\ExercícioMatrizes.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioMatrizes\ExercícioMatrizes\obj\Debug\netcoreapp3.1\ExercícioMatrizes.genruntimeconfig.cache

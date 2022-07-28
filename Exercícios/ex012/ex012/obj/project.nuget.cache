@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9I0xRJaCwYQF5sskHS5e27zN/uizHpWG3zj4e6di/ZCU56a8KszK1HpxJl05ua+9utlJK9ykHV+VWZWAxch6rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\ex012\\ex012\\ex012.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

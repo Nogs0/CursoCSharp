@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.exe
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.deps.json
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.runtimeconfig.json
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.dll
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\bin\Debug\netcoreapp3.1\Exercício de fixação.pdb
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.AssemblyInfo.cs
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.dll
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.pdb
+C:\Users\joaog\source\repos\Exercício de fixação\Exercício de fixação\obj\Debug\netcoreapp3.1\Exercício de fixação.genruntimeconfig.cache

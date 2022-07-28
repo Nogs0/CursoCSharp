@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.exe
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.deps.json
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.runtimeconfig.json
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.dll
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\bin\Debug\netcoreapp3.1\ExemploVetor.pdb
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.AssemblyInfo.cs
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.dll
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.pdb
+C:\Users\joaog\source\repos\ExemploVetor\ExemploVetor\obj\Debug\netcoreapp3.1\ExemploVetor.genruntimeconfig.cache

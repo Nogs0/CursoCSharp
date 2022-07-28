@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.exe
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.deps.json
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.runtimeconfig.json
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.dll
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\bin\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.pdb
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.AssemblyInfo.cs
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.dll
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.pdb
+C:\Users\joaog\source\repos\SoluçãoEmOutraClasse\SoluçãoEmOutraClasse\obj\Debug\netcoreapp3.1\SoluçãoEmOutraClasse.genruntimeconfig.cache

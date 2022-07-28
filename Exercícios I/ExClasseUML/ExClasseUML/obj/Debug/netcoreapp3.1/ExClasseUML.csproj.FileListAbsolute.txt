@@ -1,0 +1,14 @@
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.exe
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.deps.json
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.runtimeconfig.json
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.runtimeconfig.dev.json
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.dll
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\bin\Debug\netcoreapp3.1\ExClasseUML.pdb
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.dll
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.pdb
+C:\Users\joaog\Desktop\Códigos\ExClasseUML\ExClasseUML\obj\Debug\netcoreapp3.1\ExClasseUML.genruntimeconfig.cache

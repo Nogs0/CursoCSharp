@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+C:\Users\joaog\source\repos\Lista\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\joaog\source\repos\Lista\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache

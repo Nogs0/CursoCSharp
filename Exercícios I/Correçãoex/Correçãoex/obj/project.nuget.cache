@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbRCP1WLZVMbg98AC26pW+AnCYSnhfDo5Q9JtZdtMPEAeUbq35YWhcafgxk1kXcaR2cGsYKmJ/U4R/6kVK7orw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\Correçãoex\\Correçãoex\\Correçãoex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

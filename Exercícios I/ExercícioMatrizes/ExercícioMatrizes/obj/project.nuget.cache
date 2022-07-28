@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QZ70qlLbeuR9fA3tzOdjzci73cHaGSdqkiu+Mw1M39R0pPSt4E/sjjh5qm+obSiLSNbo4BHtlqadNl26BouDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Desktop\\Códigos\\Capítulo 4\\ExercícioMatrizes\\ExercícioMatrizes\\ExercícioMatrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dH7++S+WOQW3I7Mo+kyXjLQ5DcApsv3+4iWH7uC2j0IkchfUN1NrJFVtXvuBU0K0W62ZsxSoGo2cMtxZV/7M5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\source\\repos\\CalculadoraVetor\\CalculadoraVetor\\CalculadoraVetor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

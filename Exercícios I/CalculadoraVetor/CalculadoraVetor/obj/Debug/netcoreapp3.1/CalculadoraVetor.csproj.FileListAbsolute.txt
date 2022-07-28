@@ -1,0 +1,14 @@
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.exe
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.deps.json
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.runtimeconfig.json
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.dll
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\netcoreapp3.1\CalculadoraVetor.pdb
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.AssemblyInfo.cs
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.dll
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.pdb
+C:\Users\joaog\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\netcoreapp3.1\CalculadoraVetor.genruntimeconfig.cache

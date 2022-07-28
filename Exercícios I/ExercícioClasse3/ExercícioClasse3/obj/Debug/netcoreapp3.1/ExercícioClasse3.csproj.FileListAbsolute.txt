@@ -1,0 +1,14 @@
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.exe
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.deps.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.runtimeconfig.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.runtimeconfig.dev.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\bin\Debug\netcoreapp3.1\ExercícioClasse3.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.csproj.AssemblyReference.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse3\ExercícioClasse3\obj\Debug\netcoreapp3.1\ExercícioClasse3.genruntimeconfig.cache

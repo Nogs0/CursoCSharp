@@ -1,0 +1,13 @@
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.exe
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.deps.json
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.runtimeconfig.json
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.dll
+C:\Users\joaog\source\repos\ex022\ex022\bin\Debug\netcoreapp3.1\ex022.pdb
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.AssemblyInfo.cs
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.dll
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.pdb
+C:\Users\joaog\source\repos\ex022\ex022\obj\Debug\netcoreapp3.1\ex022.genruntimeconfig.cache

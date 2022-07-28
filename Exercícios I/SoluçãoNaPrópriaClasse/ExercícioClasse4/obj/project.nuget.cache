@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqT/LzTRrGn03UVvsQm8pmpR2c1KFKOGqKtvgEewMnITVDHnbp75zWiPE5iTbMRPph4I3G8KA80zkjUsSQRI5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Desktop\\Códigos\\Capítulo 4\\SoluçãoNaPrópriaClasse\\ExercícioClasse4\\SoluçãoNaPrópriaClasse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.exe
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.deps.json
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.runtimeconfig.json
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.dll
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.pdb
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.csproj.AssemblyReference.cache
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.AssemblyInfo.cs
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.dll
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.pdb
+C:\Users\joaog\source\repos\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.genruntimeconfig.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.exe
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.deps.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.runtimeconfig.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\bin\Debug\netcoreapp3.1\ExemploFunção.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.AssemblyInfo.cs
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\Capítulo 3\ExemploFunção\ExemploFunção\obj\Debug\netcoreapp3.1\ExemploFunção.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.exe
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.deps.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.runtimeconfig.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.runtimeconfig.dev.json
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\bin\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.dll
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.pdb
+C:\Users\joaog\Desktop\Códigos\Capítulo 4\ExercícioClasse4\ExercícioClasse4\obj\Debug\netcoreapp3.1\SoluçãoNaPrópriaClasse.genruntimeconfig.cache

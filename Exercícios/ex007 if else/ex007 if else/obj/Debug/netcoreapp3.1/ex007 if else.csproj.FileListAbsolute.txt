@@ -1,0 +1,14 @@
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.exe
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.deps.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.runtimeconfig.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.runtimeconfig.dev.json
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\bin\Debug\netcoreapp3.1\ex007 if else.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.csproj.AssemblyReference.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.AssemblyInfo.cs
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.dll
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.pdb
+C:\Users\joaog\Documents\Visual Studio 2019\Códigos\ex007 if else\ex007 if else\obj\Debug\netcoreapp3.1\ex007 if else.genruntimeconfig.cache

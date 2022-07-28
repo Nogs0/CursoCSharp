@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPCNwWbTU0awj5iObkwAUNwCD7Ly64j0TpzxXnVCxoQXdxHy1TTkHMrIICU08jQf288NgW9Py7f7GiFYGxNniw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\Documents\\Visual Studio 2019\\Códigos\\Primeirocsharp\\Primeirocsharp\\Primeirocsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

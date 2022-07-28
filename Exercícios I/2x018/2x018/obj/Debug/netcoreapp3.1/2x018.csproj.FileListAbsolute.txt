@@ -1,0 +1,13 @@
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.exe
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.deps.json
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.runtimeconfig.json
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.runtimeconfig.dev.json
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.dll
+C:\Users\joaog\source\repos\2x018\2x018\bin\Debug\netcoreapp3.1\2x018.pdb
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.AssemblyInfo.cs
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.dll
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.pdb
+C:\Users\joaog\source\repos\2x018\2x018\obj\Debug\netcoreapp3.1\2x018.genruntimeconfig.cache
