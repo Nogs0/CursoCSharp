@@ -1,0 +1,15 @@
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.csproj.AssemblyReference.cache
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.AssemblyInfoInputs.cache
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.AssemblyInfo.cs
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.csproj.CoreCompileInputs.cache
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\bin\Debug\net6.0\SistemaProcessamentoContratos.exe
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\bin\Debug\net6.0\SistemaProcessamentoContratos.deps.json
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\bin\Debug\net6.0\SistemaProcessamentoContratos.runtimeconfig.json
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\bin\Debug\net6.0\SistemaProcessamentoContratos.dll
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\bin\Debug\net6.0\SistemaProcessamentoContratos.pdb
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.dll
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\refint\SistemaProcessamentoContratos.dll
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.pdb
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\SistemaProcessamentoContratos.genruntimeconfig.cache
+H:\Projeto_BackEnd\C#\SistemaProcessamentoContratos\SistemaProcessamentoContratos\obj\Debug\net6.0\ref\SistemaProcessamentoContratos.dll

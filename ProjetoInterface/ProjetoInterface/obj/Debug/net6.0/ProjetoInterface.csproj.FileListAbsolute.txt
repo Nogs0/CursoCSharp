@@ -1,0 +1,15 @@
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\bin\Debug\net6.0\ProjetoInterface.exe
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\bin\Debug\net6.0\ProjetoInterface.deps.json
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\bin\Debug\net6.0\ProjetoInterface.runtimeconfig.json
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\bin\Debug\net6.0\ProjetoInterface.dll
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\bin\Debug\net6.0\ProjetoInterface.pdb
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.csproj.AssemblyReference.cache
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.GeneratedMSBuildEditorConfig.editorconfig
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.AssemblyInfoInputs.cache
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.AssemblyInfo.cs
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.csproj.CoreCompileInputs.cache
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.dll
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\refint\ProjetoInterface.dll
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.pdb
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ProjetoInterface.genruntimeconfig.cache
+\\SA1.dmepc.com.br\home\Projeto_BackEnd\ProjetoInterface\ProjetoInterface\obj\Debug\net6.0\ref\ProjetoInterface.dll
